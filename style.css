@@ -1,0 +1,9 @@
+.paper{padding: 100px 100px ;}
+body{
+    height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.paper{border: 5px solid black;
+position: absolute;}
